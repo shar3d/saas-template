@@ -22,7 +22,7 @@ public class Main {
   //
 
   // Base URI the Grizzly HTTP server will listen on
-  public private final String BASE_URI;
+  public static final String BASE_URI;
   public static final String LSTN_URI;
   private static final String PROTOCOL;
   private static final Optional < String > host;
